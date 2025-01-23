@@ -63,7 +63,7 @@ python main.py --model microsoft/phi-2 --field-sizes 32
 
 or use camera
 
-python main.py -- camera (index number usually 0) --model microsoft/phi-2 --field-sizes 32
+python main.py --camera (index number usually 0) --model microsoft/phi-2 --field-sizes 32
 
 or just 
 
