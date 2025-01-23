@@ -1,5 +1,3 @@
-# main14.py
-
 import argparse
 import sys
 import traceback
