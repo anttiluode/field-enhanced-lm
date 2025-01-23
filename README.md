@@ -61,16 +61,9 @@ Run the main interface:
 ```bash
 python main.py --model microsoft/phi-2 --field-sizes 32
 
-or use camera
-
-python main.py --camera (index number usually 0) --model microsoft/phi-2 --field-sizes 32
-
-or just 
+or simply
 
 python main.py --model microsoft/phi-2
-
-in which case the visual field does not have a camera that may be more interesting
-as it then becomes second field in the system interacting with the language model
 
 ```
 
