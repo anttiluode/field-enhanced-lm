@@ -65,6 +65,12 @@ or simply
 
 python main.py --model microsoft/phi-2
 
+you can also have camera input in the visual feed:
+
+python main.py --camera 0  # Change the index number if your camera is in another index
+
+Without the camera the visual field is just another field that tries to resonate with field 1. 
+
 ```
 
 The language model may talk indefinetly as the field interactions may break token limits. 
